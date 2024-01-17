@@ -22,13 +22,14 @@
    <a href="https://twitter.com/roshan pc">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-pc01&theme=dark)-->
+
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio,vscode,html,c++,java,xml&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio,vscode,html,js,java,css,xml&perline=5)](https://skillicons.dev)
 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-pc01&theme=dark)
 
 
 <br>
