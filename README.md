@@ -1,11 +1,11 @@
- <h1 align="center">Hi 👋, I'm Roshan Pc</h1>
-- 🔭 I’m a Android developper in java 
-- 🔭 I’m currently learning on Flutter
-- 🌱 I’m currently learning Backend also front end 
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: roshanroshu@gmail.com
-- 😄 My website: not hosted
-- ⚡ Fun fact: I'm comming to teen
+ <h1 align="center">Hi 👋, I'm Roshan Pc</h1><n><br>
+- 🔭 I’m a Android developper in java <br>
+- 🔭 I’m currently learning on Flutter<br>
+- 🌱 I’m currently learning Backend also front end <br>
+- 💬 Ask me anything about Flutter <br>
+- 📫 How to reach me: roshanroshu@gmail.com<br>
+- 😄 My website: not hosted<br>
+
   
 ### Connect with me:
 <div id="badges">
@@ -25,10 +25,9 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,androidstudio,vscode,html,C++,java&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
