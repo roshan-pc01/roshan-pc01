@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning on Flutter<br>
 - 🌱 I’m currently learning Backend also front end <br>
 - 💬 Ask me anything about Flutter <br>
-- 📫 How to reach me: roshanroshu@gmail.com<br>
+- 📫 How to reach me: roshanroshu9745@gmail.com<br>
 - 😄 My website: not hosted<br>
 
   
