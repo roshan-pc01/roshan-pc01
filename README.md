@@ -7,7 +7,7 @@
 - 😄 My website: not hosted<br>
 
   
-### Connect with me:
+### Connect with me: 
 <div id="badges">
   <a href="https://github.com/roshan-pc01">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
