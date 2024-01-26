@@ -6,7 +6,7 @@
 - 📫 How to reach me: roshanroshu9745@gmail.com<br> 
 - 😄 My website: not hosted<br>   
     
-  
+      
 ### Connect with me: 
 <div id="badges">
   <a href="https://github.com/roshan-pc01">
