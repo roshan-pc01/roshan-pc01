@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Roshan Pc</h1><n><br>
 - 🔭 I’m a Android developper in java <br>
 - 🔭 I’m currently learning on Flutter<br>
-- 🌱 I’m currently learning Backend also front end <br>
+- 🌱 I’m currently learning Backend and front end <br>
 - 💬 Ask me anything about Flutter <br>  
 - 📫 How to reach me: roshanroshu9745@gmail.com<br> 
 - 😄 My website: not hosted<br>   
